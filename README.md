@@ -10,3 +10,4 @@
 
 🔍 Open to People Analytics & People Science roles at CA tech companies  
 📫 [LinkedIn](https://www.linkedin.com/in/prashasti-tripathi-64a55b159/)
+🌐 [Portfolio](https://prashasti-tripathi.lovable.app/)
