@@ -1,16 +1,12 @@
-## Hi there 👋
+👋 Hi, I'm Prashasti — a People Analyst with dual masters in Psychology and 3+ years of experience turning workforce data into strategic decisions. I specialize in survey design, statistical analysis, and org effectiveness.
 
-<!--
-**Prashasti08/Prashasti08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![People Analytics](https://img.shields.io/badge/People%20Analytics-0F6E56?logoColor=white)
+![Survey Design](https://img.shields.io/badge/Survey%20Design-534AB7?logoColor=white)
+![Org Effectiveness](https://img.shields.io/badge/Org%20Effectiveness-3C3489?logoColor=white)
+![Data Viz](https://img.shields.io/badge/Data%20Viz-185FA5?logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Open to People Analytics & People Science roles at CA tech companies  
+📫 [LinkedIn](https://www.linkedin.com/in/prashasti-tripathi-64a55b159/)
