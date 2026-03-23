@@ -1,4 +1,4 @@
-👋 Hi, I'm Prashasti — a People Analyst with dual masters in Psychology and 3+ years of experience turning workforce data into strategic decisions. I specialize in survey design, statistical analysis, and org effectiveness.
+👋 Hi, I'm Prashasti — a People Analyst with **dual Master's in Psychology** and **3+ years of experience** in turning workforce data into strategic decisions. I specialize in survey design, statistical analysis, and org effectiveness.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
