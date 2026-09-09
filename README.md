@@ -1,6 +1,6 @@
 ### People Science · Behavioral & Learning Science
 
-Welcome to my GitHub portfolio — where I share research and applied projects focused on people, learning, analytics, and AI.
+Welcome to my GitHub portfolio — where I share research and applied projects focused on people, behavioral and learning science and analytics and AI
 
 **About**  
 People Scientist | Behavioral & Learning Scientist
