@@ -1,4 +1,4 @@
-Welcome to my GitHub portfolio — a collection of projects and research across People Science, Behavioral & Learning Science, Analytics, and AI.
+Welcome to my GitHub portfolio — a collection of projects and research across People Science, Behavioral Science, Learning Science, Analytics, and AI
 
 - **Education:** Dual Master’s in Psychology | Columbia University — Organizational Psychology, People Analytics
 - **Experience:** 4+ years | People Science · Behavioral Science · Learning Science · AI Experience Research
