@@ -1,6 +1,13 @@
-Welcome to my **GitHub portfolio** — featuring publications and projects at the intersection of **People Science, Behavioral & Learning Science, Analytics, and AI**.
+# Hi, I'm Prashasti
 
-- **Education:** Dual Master’s degrees in Psychology, including an M.A. in Organizational Psychology from **Columbia University**, with a focus on **People Analytics**
-- **Experience:** 4+ years across **People Science, Behavioral Science, Learning Science, and AI Experience Research**
-- **Research:** 2 publications | Quantitative & Qualitative Research | Survey Design | Psychometrics | Program Evaluation | Experimental Research
-- **Tools:** Python | R | SQL | SPSS | Excel | Qualtrics | Canva | AI Tools
+Welcome to my GitHub portfolio — exploring **People Science, Behavioral & Learning Science, Analytics, and AI**.
+
+### About Me
+- Dual Master’s degrees in Psychology — **Columbia University** (Organizational Psychology, People Analytics) + University of Delhi (Applied Psychology)
+- **4+ years** across People Science, Behavioral Science, Learning Science & AI Experience Research
+- **2 research publications** in Psychology
+
+### Skills
+`Python` `R` `SQL` `SPSS` `Excel` `Qualtrics` `Tableau`
+
+**Research:** Quantitative & Qualitative Research · Psychometrics · Survey Design · Program Evaluation · Experimental Research
