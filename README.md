@@ -12,7 +12,7 @@ People Scientist | Behavioral & Learning Scientist
 Dual Master’s in Psychology | Columbia University — Organizational Psychology & People Analytics
 
 **Research**  
-2 peer-reviewed publications | Quantitative & Qualitative Research · Psychometrics · Experimentation
+2 peer-reviewed publications | Quantitative & Qualitative Research 
 
 **Toolkit**  
 Python · R · SQL · SPSS · Excel · Qualtrics · Tableau
