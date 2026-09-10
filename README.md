@@ -9,7 +9,7 @@ People Scientist | Behavioral & Learning Scientist
 4+ years across People Science, Learning & Behavioral Science, and AI Experience Research
 
 **Education**  
-Dual Master’s in Psychology | Columbia University — Organizational Psychology & People Analytics
+Dual Master’s in Psychology | Columbia University - Organizational Psychology (People Analytics), Delhi University - Applied Psychology
 
 **Research**  
 2 peer-reviewed publications | Quantitative & Qualitative Research 
