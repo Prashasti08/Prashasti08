@@ -1,21 +1,11 @@
-### People Science · Behavioral Science · Learning Science
+# Hi, I'm Prashasti! 👋
 
-Welcome to my GitHub portfolio — where I share research and applied projects focused on people science, behavioral science,learning science, analytics and AI
+I'm an **Organizational Psychology graduate from Columbia University**, with dual master's degrees in Psychology, 2 research publications, and 3+ years of experience in people research, psychometrics, survey design, and program evaluation.
 
-**About**  
-People Scientist | Behavioral & Learning Scientist
+My GitHub showcases projects across **People Analytics, People Science, and Learning Analytics**, focused on understanding employee experiences, identifying drivers of engagement and performance, and evaluating learning outcomes. My work combines quantitative research, statistical modeling, and data visualization to translate complex data into actionable organizational insights.
 
-**Background**  
-3+ years across People Science, Learning & Behavioral Science, and AI Experience Research
+**🔍 Areas of Expertise:** People Analytics | Psychometrics | Survey Research | Statistical Analysis | Predictive Modeling | Program Evaluation | Learning Analytics
 
-**Education**  
-Dual Master’s in Psychology | Columbia University - Organizational Psychology (People Analytics), Delhi University - Applied Psychology
+**🛠️ Technical Skills:** R | Python | SQL | Tableau | SPSS | Excel | Qualtrics
 
-**Research**  
-2 peer-reviewed publications 
-
-**Toolkit**  
-Python · R · SQL · SPSS · Excel · Qualtrics · Tableau
-
-**Here to explore**  
-How research + data can improve how people work, learn, and interact with technology
+**🔗 Connect:** [LinkedIn](https://www.linkedin.com/in/prashasti-tripathi-64a55b159/)
