@@ -1,18 +1,11 @@
-# Hi, I'm Prashasti! 👋
+### Hi, I'm Prashasti! 👋
 
-## About
+An **Organizational Psychologist** with dual master's degrees in Psychology, including from **Columbia University**, 2 research publications, and 5+ years of industry and academic experience.
 
-Organizational Psychologist with dual master's degrees in Psychology, including from **Columbia University**, 2 research publications, and 5+ years of industry and academic experience in people analytics, behavioral research, and program evaluation.
+This portfolio showcases projects in **People Analytics, Behavioral Research, and Learning Analytics**, using data to understand employee engagement, performance, retention, and learning outcomes.
 
-Projects focus on analyzing **employee engagement, performance, retention, and learning outcomes** using statistical modeling, predictive analytics, and data visualization to generate actionable business insights.
+**Skills:** Survey Research | Statistical Analysis | Predictive Modeling | Data Visualization
 
-**🔍 Core Skills:** People Analytics | Survey Research | Psychometrics | Regression Analysis | Predictive Modeling | Program Evaluation | Learning Analytics
+**Tools:** Python | SQL | R | Tableau | SPSS | Excel
 
-**🛠️ Tools:** Python | SQL | R | Tableau | SPSS | Excel | Qualtrics
-
-**📊 Featured Work:**
-- **People Analytics:** Analyzed 78,000+ employee survey responses to identify key drivers of employee engagement.
-- **Learning Analytics:** Analyzed 32,000+ learner records to identify engagement and performance patterns.
-- **AI & Behavioral Science:** Developed an AI-powered mentorship chatbot using prompt engineering and behavioral science.
-
-**🔗 Connect:** [LinkedIn](https://www.linkedin.com/in/prashasti-tripathi-64a55b159/)
+**[Connect on LinkedIn](https://www.linkedin.com/in/prashasti-tripathi-64a55b159/)**
