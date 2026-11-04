@@ -1,13 +1,9 @@
 ### Hi, I'm Prashasti! 👋
 
-An **Organizational Psychologist** with 5+ years of experience applying behavioral research, people analytics, and data-driven insights to business and organizational challenges.
+I'm a Learning & Development Specialist with **5+** years of industry and academic experience, dual master's in Psychology, recently from **Columbia University**), and 2 research publications.
 
-This portfolio showcases **People Analytics, Behavioral Research, and Learning Analytics projects** focused on employee engagement, performance, retention, and learning outcomes.
+I've designed and evaluated learning initiatives for **70+ clients** across **20+ industries**, specializing in instructional design, talent assessments, learning analytics, and program evaluation.
 
-**Core Skills:** Survey Research | Statistical Analysis | Predictive Modeling | Data Visualization
+Here, I showcase Learning Analytics projects using **Python, SQL, R, and Tableau** to measure engagement, evaluate learning effectiveness, and inform data-driven talent development strategies.
 
-**Tools:** Python | SQL | R | Tableau | SPSS | Excel
-
-**Education:** Columbia University | Dual Master's in Psychology
-
-**[Connect on LinkedIn](https://www.linkedin.com/in/prashasti-tripathi-64a55b159/)**
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/prashasti-tripathi-64a55b159/) | [Email](mailto:pt2647@tc.columbia.edu)
