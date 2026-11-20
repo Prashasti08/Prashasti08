@@ -1,9 +1,5 @@
-### Hi, I’m Prashasti! 👋
+Hi, I’m Prashasti Tripathi, an organizational psychologist interested in how people learn, grow, and work. Over the past 3+ years, I’ve delivered projects for clients across 10+ industries in APAC and EMEA, working across learning and development, organizational research, psychometrics, and people operations.
 
-I’m an organizational psychology researcher with **5+ years of industry and academic experience** across people analytics, learning and development, and recruiting. I hold two master’s degrees in psychology, including one from **Columbia University**, and have co-authored **two peer-reviewed publications**.
+I’m especially interested in questions like which skills employees need next and how we can tell whether a learning program made a difference. I bring two master’s degrees in psychology, including one from Columbia University, and experience publishing two peer-reviewed studies. Here on GitHub, I share research and data projects in SQL, Python, and R.
 
-- **[People Science & Analytics](./people-science-and-analytics/README.md)** · Analyzed **78,000+ federal employee survey responses** using SQL and Python to identify predictors of engagement, then visualized the findings in Tableau.
-- **[Learning & Development](./learning-and-development/README.md)** · Designed and evaluated learning initiatives for **70+ enterprise clients across 20+ industries**.
-- **[Talent Acquisition](./talent-acquisition/README.md)** · Led full-cycle recruiting at inFeedo, an AI-powered HR tech startup, building a **1,500+ candidate pipeline** and reducing hiring turnaround time by **15%**.
-
-[LinkedIn](https://www.linkedin.com/in/prashasti-tripathi-64a55b159/) | [Email](mailto:pt2647@tc.columbia.edu)
+I’m open to roles in learning and development, organizational development, and people research. Take a look around, and let’s connect on [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE/).
