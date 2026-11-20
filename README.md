@@ -1,5 +1,9 @@
-Hi, I’m Prashasti Tripathi, an organizational psychologist interested in how people learn, grow, and work. Over the past 3+ years, I’ve delivered projects for clients across 10+ industries in APAC and EMEA, working across learning and development, organizational research, psychometrics, and people operations.
+# Hi, I’m Prashasti 👋
 
-I’m especially interested in questions like which skills employees need next and how we can tell whether a learning program made a difference. I bring two master’s degrees in psychology, including one from Columbia University, and experience publishing two peer-reviewed studies. Here on GitHub, I share research and data projects in SQL, Python, and R.
+I’m an **Organizational Psychologist** with **3+ years of experience** delivering projects for clients across **10+ industries in APAC and EMEA**. I’ve worked across learning and development, organizational research, psychometrics, and people operations in B2B tech startups, nonprofits, and academia.
 
-I’m open to roles in learning and development, organizational development, and people research. Take a look around, and let’s connect on [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE/).
+I combine **mixed-methods research** with data analysis in **SQL, Python, and R** to identify skill gaps, design competency-based assessments, and evaluate whether learning programs meet their goals.
+
+My research background includes **two master’s degrees in psychology**, one from **Columbia University**, and **two peer-reviewed publications**.
+
+Explore my projects below and [connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE/) to discuss opportunities or collaborations!
